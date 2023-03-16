@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "workers": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "team": "Web Development",
+      "role": "Front-end Engineer",
+      "tracked_hours": 28,
+      "billable_hours": 26,
+      "non_billable_hours": 2
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "team": "Web Development",
+      "role": "Back-end Engineer",
+      "tracked_hours": 30,
+      "billable_hours": 28,
+      "non_billable_hours": 2
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "team": "Web Development",
+      "role": "Full-stack Engineer",
+      "tracked_hours": 32,
+      "billable_hours": 30,
+      "non_billable_hours": 2
+    },
+    {
+      "id": 4,
+      "name": "Jessica Lee",
+      "team": "Mobile Development",
+      "role": "iOS Engineer",
+      "tracked_hours": 25,
+      "billable_hours": 24,
+      "non_billable_hours": 1
+    },
+    {
+      "id": 5,
+      "name": "David Kim",
+      "team": "Mobile Development",
+      "role": "Android Engineer",
+      "tracked_hours": 27,
+      "billable_hours": 26,
+      "non_billable_hours": 1
+    },
+    {
+      "id": 6,
+      "name": "Daniel Lee",
+      "team": "QA",
+      "role": "Automation Engineer",
+      "tracked_hours": 26,
+      "billable_hours": 25,
+      "non_billable_hours": 1
+    },
+    {
+      "id": 7,
+      "name": "Samantha Lee",
+      "team": "QA",
+      "role": "Manual Tester",
+      "tracked_hours": 23,
+      "billable_hours": 22,
+      "non_billable_hours": 1
+    },
+    {
+      "id": 8,
+      "name": "Andrew Kim",
+      "team": "DevOps",
+      "role": "Cloud Engineer",
+      "tracked_hours": 29,
+      "billable_hours": 27,
+      "non_billable_hours": 2
+    },
+    {
+      "id": 9,
+      "name": "Ryan Park",
+      "team": "DevOps",
+      "role": "Infrastructure Engineer",
+      "tracked_hours": 31,
+      "billable_hours": 29,
+      "non_billable_hours": 2
+    },
+    {
+      "id": 10,
+      "name": "Olivia Lee",
+      "team": "UI/UX Design",
+      "role": "Product Designer",
+      "tracked_hours": 33,
+      "billable_hours": 30,
+      "non_billable_hours": 3
+    },
+    {
+      "id": 11,
+      "name": "Kevin Lee",
+      "team": "UI/UX Design",
+      "role": "UI Designer",
+      "tracked_hours": 27,
+      "billable_hours": 26,
+      "non_billable_hours": 1
+    },
+    {
+      "id": 12,
+      "name": "Emily Kim",
+      "team": "Project Management",
+      "role": "Scrum Master",
+      "tracked_hours": 28,
+      "billable_hours": 27,
+      "non_billable_hours": 1
+}
+]
+}
